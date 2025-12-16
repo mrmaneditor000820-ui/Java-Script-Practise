@@ -97,3 +97,12 @@
 // console.log(number +"  x   "+i + "  =  " +(i * number));
 // }
 
+//  Revision
+
+// BOM browser object modele
+// read only {ok}
+// alert("hi")
+
+// variables
+// very (change) ables (able)
+
