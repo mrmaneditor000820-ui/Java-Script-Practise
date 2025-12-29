@@ -107,8 +107,8 @@
 // very (change) ables (able)
 // var, let, const
 
-var uname = "ali";
-var age = 20;
-if(uname === "ali" , age === 20){
-   console.log("pass")
-}
+// var uname = prompt("enter name");
+// var age = prompt("enter age");
+// if(uname === "ali" , age === 20){
+//    console.log("pass")
+// }
