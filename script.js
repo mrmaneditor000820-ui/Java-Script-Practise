@@ -112,3 +112,5 @@
 // if(uname === "ali" , age === 20){
 //    console.log("pass")
 // }
+
+
