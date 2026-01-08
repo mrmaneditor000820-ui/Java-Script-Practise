@@ -117,3 +117,8 @@ var students = ["ali",  , "ahmed", "hassan"];
 
 console.log(students.length);
 console.log(students[1]);
+
+students[0] = "umer";
+students[1] = "bilal";
+
+console.log(students);
