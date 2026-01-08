@@ -121,6 +121,8 @@ console.log(students[1]);
 students[0] = "umer";
 students[1] = "bilal";
 
+
+
 students.push("zain");
 
 console.log(students);
