@@ -113,4 +113,7 @@
 //    console.log("pass")
 // }
 
+var students = ["ali",  , "ahmed", "hassan"];
 
+console.log(students.length);
+console.log(students[1]);
