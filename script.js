@@ -113,16 +113,16 @@
 //    console.log("pass")
 // }
 
-var students = ["ali",  , "ahmed", "hassan"];
+var students = ["ali",  , "ahmed", "hassan" ,"umer"];
 
+// console.log(students.length-1);
 console.log(students.length);
-console.log(students[1]);
 
-students[0] = "umer";
-students[1] = "bilal";
-
+// students[0] = "umer";
+// students[1] = "bilal";
 
 
-students.push("zain");
 
-console.log(students);
+// students.push("zain");
+
+// console.log(students);
