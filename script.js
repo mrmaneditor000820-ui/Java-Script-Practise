@@ -115,8 +115,10 @@
 
 var students = ["ali",  , "ahmed", "hassan" ,"umer"];
 
+
+
 // console.log(students.length-1);
-console.log(students.length);
+// console.log(students.length);
 
 // students[0] = "umer";
 // students[1] = "bilal";
