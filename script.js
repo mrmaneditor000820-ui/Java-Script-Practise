@@ -119,6 +119,8 @@ var twoDArray = [
   [7,8,9,]
 ];
 
+console.log("twoDimensionArray =>", twoDArray)
+
 
 
 // console.log(students.length-1);
