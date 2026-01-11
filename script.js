@@ -120,6 +120,7 @@ var twoDArray = [
 ];
 
 console.log("twoDimensionArray =>", twoDArray)
+console.log([twoDArray[1][2]])
 
 
 
