@@ -121,10 +121,17 @@
 // // console.log("twoDimensionArray =>", twoDArray)
 // console.log(twoDArray[2][3][0]);
 
-var arr1 =[[1,2,3], [4,5,6],[7,8,9]]
-var arr2 =[[9,8,7], [6,5,4],[3,2,1]]
-var sumOfArr =arr1[1][2] + arr2[2][1];
-console.log("sum", sumOfArr)
+// sum of specific index of 2d array
+
+// var arr1 =[[1,2,3], [4,5,6],[7,8,9]]
+// var arr2 =[[9,8,7], [6,5,4],[3,2,1]]
+// var sumOfArr =arr1[1][2] + arr2[2][1];
+// console.log("sum", sumOfArr)
+
+var students = ["ali", "umer", "bilal", "zain", "asad"];
+for( var i = 0; i< students.length; i++){
+  console.log(students[i]);
+}
 
 
 // console.log(students.length-1);
