@@ -121,7 +121,9 @@
 // // console.log("twoDimensionArray =>", twoDArray)
 // console.log(twoDArray[2][3][0]);
 
-
+var arr1 =[[1,2,3], [4,5,6],[7,8,9]]
+var arr2 =[[9,8,7], [6,5,4],[3,2,1]]
+var sumOfArr = 
 
 
 // console.log(students.length-1);
