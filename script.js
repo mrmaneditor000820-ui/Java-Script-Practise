@@ -113,17 +113,14 @@
 //    console.log("pass")
 // }
 
-var twoDArray = [
-  [1,2,3],
-  [4,5,6],
-  [7,8,9,["a","b",["c",10]]]
-];
+// var twoDArray = [
+//   [1,2,3],
+//   [4,5,6],
+//   [7,8,9,["a","b",["c",10]]]
+// ];
+// // console.log("twoDimensionArray =>", twoDArray)
+// console.log(twoDArray[2][3][0]);
 
-
-
-
-// console.log("twoDimensionArray =>", twoDArray)
-console.log(twoDArray[2][3][2]);
 
 
 
