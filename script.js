@@ -122,8 +122,8 @@ var twoDArray = [
 
 
 
-console.log("twoDimensionArray =>", twoDArray)
-console.log([twoDArray[1][2]])
+// console.log("twoDimensionArray =>", twoDArray)
+console.log(twoDArray[2][2][0])
 
 
 
