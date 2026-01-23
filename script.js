@@ -130,7 +130,7 @@
 
 var students = ["ali", "umer", "bilal", "zain", "asad"];
 for( var i = 0; i< students.length; i++){
-  console.log(students[i]);
+  console.table(students[i]);
 }
 
 
