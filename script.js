@@ -128,10 +128,13 @@
 // var sumOfArr =arr1[1][2] + arr2[2][1];
 // console.log("sum", sumOfArr)
 
-var students = ["ali", "umer", "bilal", "zain", "asad"];
-for( var i = 0; i< students.length; i++){
-  console.table(students[i]);
-}
+
+// var twoDArr =[[1,2,3],[4,5,6],[7,8,9],[10,11,12,13]]
+// for( var i = 0; i< twoDArr.length; i++){
+//   for(let j = 0; j < twoDArr[i].length; j++)
+//       console.table(twoDArr[i][j]);
+// }
+
 
 
 // console.log(students.length-1);
