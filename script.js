@@ -149,4 +149,11 @@
 
 // console.log(students);
 
-
+var checkstudt = prompt("enter student name")
+var checkstudtwithcapitallett = checkstudt.toLowercase()
+var studt = ["ALI","Ahmed","Asad","Bilal","Rehman"];
+for(var i = 0; i < studt.length; i++){
+    if(studt[i]== checkstudt){
+        console.log(checkstudt);
+    }
+}
