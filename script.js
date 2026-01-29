@@ -159,7 +159,7 @@
 // }
 
 var checkstudt = prompt("enter student name")
-var firstchar = 
+var firstChar = checkstudt.slice
 var studt = ["Ali","Ahmed","Asad","Bilal","Rehman"];
 for(var i = 0; i < studt.length; i++){
     if(studt[i]== checkstudtwithcapitallett ){
