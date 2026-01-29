@@ -158,11 +158,14 @@
 //     }
 // }
 
-var checkstudt = prompt("enter student name")
-var firstChar = checkstudt.slice(0,1)
-var studt = ["Ali","Ahmed","Asad","Bilal","Rehman"];
-for(var i = 0; i < studt.length; i++){
-    if(studt[i]== checkstudtwithcapitallett ){
-        console.log(checkstudtwithcapitallett);
-    }
-}
+// var checkstudt = prompt("enter student name")
+// var firstChar = checkstudt.slice(0,1)
+// console.log(firstChar)
+var otherchar = checkstudt.slice(1)
+console.log(otherchar)
+// var studt = ["Ali","Ahmed","Asad","Bilal","Rehman"];
+// for(var i = 0; i < studt.length; i++){
+//     if(studt[i]== checkstudtwithcapitallett ){
+//         console.log(checkstudtwithcapitallett);
+//     }
+// }
