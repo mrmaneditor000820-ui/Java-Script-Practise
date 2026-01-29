@@ -158,10 +158,12 @@
 //     }
 // }
 
-// var checkstudt = prompt("enter student name")
-// var firstChar = checkstudt.slice(0,1)
-// console.log(firstChar)
+var checkstudt = prompt("enter student name")
+var firstChar = checkstudt.slice(0,1)
+var firstChar = firstChar.toUpperCase()
+console.log(firstChar)
 var otherchar = checkstudt.slice(1)
+var otherchar = otherchar.toLowerCase()
 console.log(otherchar)
 // var studt = ["Ali","Ahmed","Asad","Bilal","Rehman"];
 // for(var i = 0; i < studt.length; i++){
