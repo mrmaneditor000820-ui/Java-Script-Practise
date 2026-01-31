@@ -172,7 +172,4 @@
 //     }
 // }
 
-var myName = prompt("enter");
 
-var myNameLength = myName.length;
-if
