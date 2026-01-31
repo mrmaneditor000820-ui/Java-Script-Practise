@@ -172,4 +172,4 @@
 //     }
 // }
 
-
+var city = "pak istan"
