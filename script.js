@@ -172,4 +172,11 @@
 //     }
 // }
 
-var city = "pak istan"
+var cityname = prompt("enter city name")
+var citynames = cityname.length;
+
+for (i = 0; i < cityname; i++){
+    if(cityname.slice(i,i+2) === "  "){
+        console.log("double space not allowd");
+    }
+}
