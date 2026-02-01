@@ -27,7 +27,7 @@
 // }else{
 //     console.log("you are allow")
 // }
-   
+
 
 // for lops practise 
 
@@ -175,10 +175,10 @@
 var cityname = prompt("enter city name")
 var citynames = cityname.length;
 
-for (i = 0; i < citynames; i++){
-    if(cityname.slice(i,i+2) === "  "){
+for (i = 0; i < citynames; i++) {
+    if (cityname.slice(i, i + 2) === "  ") {
         console.log("double space not allowd");
-    }else{
+    } else {
         console.log("no doble space good")
     }
 }
