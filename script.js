@@ -183,3 +183,4 @@
 //     }
 // }
 
+var cityname = "this is world war 2 story of the past"
