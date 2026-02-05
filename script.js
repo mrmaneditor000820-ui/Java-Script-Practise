@@ -172,13 +172,14 @@
 //     }
 // }
 
-var cityname = prompt("enter city name")
-var citynames = cityname.length;
+// var cityname = prompt("enter city name")
+// var citynames = cityname.length;
 
-for (i = 0; i < citynames; i++) {
-    if (cityname.slice(i, i + 2) === "  ") {
-        console.log("double space not allowd");
-    } else {
-        console.log("no doble space good")
-    }
-}
+// for (i = 0; i < citynames; i++) {
+//     if (cityname.slice(i, i + 2) === "  ") {
+//         console.log("double space not allowd");
+//     } else {
+//         console.log("no doble space good")
+//     }
+// }
+
