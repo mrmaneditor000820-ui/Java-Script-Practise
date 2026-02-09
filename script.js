@@ -236,3 +236,33 @@
 
 // var result = users[1].orders[0].price
 // console.log(result)
+
+// const company = {
+//   regions: [
+//     {
+//       name: "North",
+//       managers: [
+//         {
+//           name: "Ali",
+//           sales: [5000, 7000, 6000]
+//         },
+//         {
+//           name: "Sara",
+//           sales: [8000, 9000]
+//         }
+//       ]
+//     },
+//     {
+//       name: "South",
+//       managers: [
+//         {
+//           name: "John",
+//           sales: [4000, 3000]
+//         }
+//       ]
+//     }
+//   ]
+// };
+
+// var result = company.regions[0].managers[0].name + " " + company.regions[0].managers[0].sales
+// console.log(result)
