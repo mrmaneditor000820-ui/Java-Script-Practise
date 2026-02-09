@@ -183,11 +183,32 @@
 //     }
 // }
 
-var cityname = "this is world war 2 story of the past"
-var citynames = cityname.length;
-for (i = 0; i < citynames; i++){
-    if (cityname.slice(i, i + 11) === "world war 2"){
-        cityname = cityname.slice(0,i) + "the second world war" + cityname.slice(i + 11);
-        console.log("cityname =>", cityname);
+// var cityname = "this is world war 2 story of the past"
+// var citynames = cityname.length;
+// for (i = 0; i < citynames; i++){
+//     if (cityname.slice(i, i + 11) === "world war 2"){
+//         cityname = cityname.slice(0,i) + "the second world war" + cityname.slice(i + 11);
+//         console.log("cityname =>", cityname);
+//     }
+// }
+
+const inventory = {
+  categories: [
+    {
+      name: "Electronics",
+      products: [
+        { name: "Phone", stock: 10 },
+        { name: "Laptop", stock: 5 }
+      ]
+    },
+    {
+      name: "Accessories",
+      products: [
+        { name: "Charger", stock: 20 },
+        { name: "Cable", stock: 0 }
+      ]
     }
-}
+  ]
+};
+
+var
