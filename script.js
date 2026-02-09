@@ -192,23 +192,24 @@
 //     }
 // }
 
-const inventory = {
-  categories: [
-    {
-      name: "Electronics",
-      products: [
-        { name: "Phone", stock: 10 },
-        { name: "Laptop", stock: 5 }
-      ]
-    },
-    {
-      name: "Accessories",
-      products: [
-        { name: "Charger", stock: 20 },
-        { name: "Cable", stock: 0 }
-      ]
-    }
-  ]
-};
+// const inventory = {
+//   categories: [
+//     {
+//       name: "Electronics",
+//       products: [
+//         { name: "Phone", stock: 10 },
+//         { name: "Laptop", stock: 5 }
+//       ]
+//     },
+//     {
+//       name: "Accessories",
+//       products: [
+//         { name: "Charger", stock: 20 },
+//         { name: "Cable", stock: 0 }
+//       ]
+//     }
+//   ]
+// };
 
-var
+// var result = inventory.categories[1].products[0].name
+// console.log(result)
