@@ -213,3 +213,26 @@
 
 // var result = inventory.categories[1].products[0].name
 // console.log(result)
+
+// const users = [
+//   {
+//     name: "Ali",
+//     orders: [
+//       { item: "Phone", price: 50000 },
+//       { item: "Headphones", price: 5000 }
+//     ]
+//   },
+//   {
+//     name: "Sara",
+//     orders: [
+//       { item: "Laptop", price: 90000 }
+//     ]
+//   },
+//   {
+//     name: "John",
+//     orders: []
+//   }
+// ];
+
+// var result = users[1].orders[0].price
+// console.log(result)
