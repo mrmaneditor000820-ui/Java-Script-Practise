@@ -270,15 +270,12 @@
 // console.log(result)
 
 function myfunction (){
-    console.log("asalamualekum")
-    Callback()
+    var name = prompt("enter your name")
+    var age = prompt("enter your age")
+    if(name === "ali" && age == 20){
+        console.log("pass")
+    }else{
+        console.log("fail")
+    }   
 }
-
-function Callback(){
-    console.log("or kiya  hy")
-}
-
-myfunction(Callback)
-
-
 
