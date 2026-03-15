@@ -3,6 +3,8 @@
 
 //var decre = a-- + a--
 
+// const { useCallback } = require("react")
+
 //conso//
 
 //var prompt = require('prompt-sync')();
@@ -266,3 +268,17 @@
 
 // var result = company.regions[0].managers[0].name + " " + company.regions[0].managers[0].sales
 // console.log(result)
+
+function myfunction (){
+    console.log("asalamualekum")
+    Callback()
+}
+
+function Callback(){
+    console.log("or kiya  hy")
+}
+
+myfunction(Callback)
+
+
+
