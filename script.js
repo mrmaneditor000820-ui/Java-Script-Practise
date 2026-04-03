@@ -269,19 +269,21 @@
 // var result = company.regions[0].managers[0].name + " " + company.regions[0].managers[0].sales
 // console.log(result)
 
-function myfunction (){
-    var name = prompt("enter your name")
-    var age = prompt("enter your age")
-    if(name === "ali" && age == 20){
-        console.log("pass")
-    }else{
-        console.log("fail")
-    }   
-}
+// function myfunction (){
+//     var name = prompt("enter your name")
+//     var age = prompt("enter your age")
+//     if(name === "ali" && age == 20){
+//         console.log("pass")
+//     }else{
+//         console.log("fail")
+//     }   
+// }
 
-arr = [1,2,3,4,5]
-var sum = 0;
-for(i = 0; i < arr.length; i++){
-    sum = sum + arr[i]
-}
-console.log("sum =>", sum)  
+// arr = [1,2,3,4,5]
+// var sum = 0;
+// for(i = 0; i < arr.length; i++){
+//     sum = sum + arr[i]
+// }
+// console.log("sum =>", sum)  
+
+
