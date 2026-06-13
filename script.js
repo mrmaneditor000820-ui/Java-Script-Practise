@@ -286,4 +286,16 @@
 // }
 // console.log("sum =>", sum)  
 
+// var btn = document.getElementById("click")
+// var more = document.getElementById("more")
+
+// btn.addEventListener("click",()=>{
+//  btn.innerHTML = "<h1>abdurehman </h1>"
+//  if(btn.innerHTML === ""){
+//     btn.innerHTML = "<h1>abdurehman </h1>"
+//  }else{
+//     btn.innerHTML = ""
+//  }
+// })
+
 
