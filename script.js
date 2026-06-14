@@ -298,4 +298,17 @@
 //  }
 // })
 
+var btn = document.getElementById("click");
+var more = document.getElementById("more");
 
+btn.addEventListener("click", () => {
+
+  if (more.innerHTML === "") {
+    more.innerHTML = "<h1>Abdurehman</h1>";
+    btn.innerText = "hide"
+  } else {
+    more.innerHTML = "";
+    btn.innerText = "Show more"
+  }
+
+});
